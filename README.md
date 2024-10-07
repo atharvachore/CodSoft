@@ -1,4 +1,4 @@
-  CodSoft Python Programming Internship Projects
+  **CodSoft Python Programming Internship Projects**
 
 Welcome to the repository for the projects I completed as part of the CodSoft Python Programming Internship. Throughout the internship, I developed multiple small yet functional applications to enhance my Python skills. Below is an overview of each project and the features they include.
 
@@ -13,54 +13,54 @@ Features:
 - Delete completed tasks.
 - Simple and intuitive interface.
 
-   Tech Stack:
+Tech Stack:
 - Python
 - File Handling (for saving tasks)
 
-  2. Calculator
+2. Calculator
 A basic calculator that can perform standard arithmetic operations like addition, subtraction, multiplication, and division.
 
-   Features:
+Features:
 - Supports basic operations: addition, subtraction, multiplication, and division.
 - User-friendly input/output via command-line interface.
 - Error handling for division by zero and invalid input.
 
-   Tech Stack:
+Tech Stack:
 - Python
 
-  3. Password Generator
+3. Password Generator
 This project generates random, secure passwords based on the user's preferences for length and character types (uppercase, lowercase, digits, and special characters).
 
-   Features:
+Features:
 - Choose password length.
 - Option to include/exclude uppercase letters, digits, and special characters.
 - Secure random password generation.
 
-   Tech Stack:
+Tech Stack:
 - Python
 - Random Module
 
-  4. Rock-Scissor-Paper Game
+4. Rock-Scissor-Paper Game
 A simple command-line implementation of the classic "Rock, Scissors, Paper" game, where the user plays against the computer.
 
-   Features:
+Features:
 - Play Rock, Scissor, or Paper against the computer.
 - Randomized computer choices.
 - Clear game results (win/lose/draw).
   
-   Tech Stack:
+Tech Stack:
 - Python
 - Random Module
 
-  5. Contact Book
+5. Contact Book
 A command-line application that allows users to store, view, update, and delete contact information such as name, phone number, and email address.
 
-   Features:
+Features:
 - Add new contacts.
 - View all saved contacts.
 - Update existing contact information.
 - Delete contacts.
 
-   Tech Stack:
+Tech Stack:
 - Python
 - File Handling (for saving contact data)
