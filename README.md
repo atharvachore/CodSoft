@@ -4,8 +4,8 @@ Welcome to the repository for the projects I completed as part of the CodSoft Py
 
 Projects Overview
 
-1. To-Do List
-The To-Do List project is a simple command-line application that helps users manage daily tasks by adding, viewing, and deleting tasks.
+1. To-Do List:
+   The To-Do List project is a simple command-line application that helps users manage daily tasks by adding, viewing, and deleting tasks.
 
 Features:
 - Add a new task.
@@ -17,8 +17,8 @@ Tech Stack:
 - Python
 - File Handling (for saving tasks)
 
-2. Calculator
-A basic calculator that can perform standard arithmetic operations like addition, subtraction, multiplication, and division.
+2. Calculator:
+   A basic calculator that can perform standard arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
 - Supports basic operations: addition, subtraction, multiplication, and division.
@@ -28,8 +28,8 @@ Features:
 Tech Stack:
 - Python
 
-3. Password Generator
-This project generates random, secure passwords based on the user's preferences for length and character types (uppercase, lowercase, digits, and special characters).
+3. Password Generator:
+   This project generates random, secure passwords based on the user's preferences for length and character types (uppercase, lowercase, digits, and special characters).
 
 Features:
 - Choose password length.
@@ -40,8 +40,8 @@ Tech Stack:
 - Python
 - Random Module
 
-4. Rock-Scissor-Paper Game
-A simple command-line implementation of the classic "Rock, Scissors, Paper" game, where the user plays against the computer.
+4. Rock-Scissor-Paper Game:
+   A simple command-line implementation of the classic "Rock, Scissors, Paper" game, where the user plays against the computer.
 
 Features:
 - Play Rock, Scissor, or Paper against the computer.
@@ -52,8 +52,8 @@ Tech Stack:
 - Python
 - Random Module
 
-5. Contact Book
-A command-line application that allows users to store, view, update, and delete contact information such as name, phone number, and email address.
+5. Contact Book:
+   A command-line application that allows users to store, view, update, and delete contact information such as name, phone number, and email address.
 
 Features:
 - Add new contacts.
